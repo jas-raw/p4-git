@@ -1,0 +1,22 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.h-100{
+    min-height: 100vh;
+}
+.form{
+    font-size: large;
+}
+.title{
+    color: green;
+}
+.title:hover{
+    color: aqua;
+    text-decoration: underline;
+}
